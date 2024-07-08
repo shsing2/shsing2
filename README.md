@@ -2,8 +2,6 @@
 
 I'm an undergrad student studying Computer Science at UIUC. 
 
-## Skills
-
 - **Languages**: C++, Java, Python, JavaScript, SQL
 - **Frameworks**: React, Node.js
 

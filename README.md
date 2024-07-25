@@ -3,8 +3,6 @@
 I'm an undergrad student studying Computer Science at UIUC. 
 
 - **Languages**: C++, Java, Python, JavaScript, SQL
-- **Frameworks**: React, Node.js
-
 
 
 <!--
